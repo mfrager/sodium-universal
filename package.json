@@ -11,7 +11,7 @@
     "sha512-universal": "^1.1.0",
     "siphash24": "^1.0.1",
     "sodium-javascript": "~0.8.0",
-    "sodium-native": "^4.0.0",
+    "sodium-native": "github:mfrager/sodium-native",
     "xsalsa20": "^1.0.0"
   },
   "scripts": {
